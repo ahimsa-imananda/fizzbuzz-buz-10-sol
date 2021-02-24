@@ -1,0 +1,1 @@
+# fizzbuzz-buz-10-sol
